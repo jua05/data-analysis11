@@ -1,0 +1,189 @@
+{
+    "_id": "651e4a1fb7503416e5f162a0",
+    "audioPath": "20230925/Seoul/2022/20220302/converted_[20220302]-[WQ1139588252].wav",
+    "recordId": "0a7c0485df8e27c9cd01",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 42960,
+    "utterances": [
+        {
+            "id": "a050ac5b",
+            "startAt": 217,
+            "endAt": 1167,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "978829e3",
+            "startAt": 1981,
+            "endAt": 6164,
+            "text": "예, 그 구급차가 지금 보내주셔야 할 거 같은데요.",
+            "speaker": 1
+        },
+        {
+            "id": "3762e400",
+            "startAt": 5961,
+            "endAt": 7191,
+            "text": "예, 누가 어디 아파요?",
+            "speaker": 0
+        },
+        {
+            "id": "dfe89203",
+            "startAt": 8046,
+            "endAt": 9836,
+            "text": "엄마가 지금 가슴 쪽이 아프",
+            "speaker": 1
+        },
+        {
+            "id": "a6cc8a5f",
+            "startAt": 10326,
+            "endAt": 11236,
+            "text": "주소 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "9af76f7f",
+            "startAt": 12415,
+            "endAt": 13595,
+            "text": "서울특별시",
+            "speaker": 1
+        },
+        {
+            "id": "68955390",
+            "startAt": 13625,
+            "endAt": 13955,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "48191c7e",
+            "startAt": 14765,
+            "endAt": 16095,
+            "text": "은평구 응암동",
+            "speaker": 1
+        },
+        {
+            "id": "8eb93b7b",
+            "startAt": 16078,
+            "endAt": 16695,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "2a0912a7",
+            "startAt": 17689,
+            "endAt": 19149,
+            "text": "응암 푸르지오 아파트",
+            "speaker": 1
+        },
+        {
+            "id": "abbaf4bd",
+            "startAt": 19489,
+            "endAt": 20339,
+            "text": "응암 푸르지오?",
+            "speaker": 0
+        },
+        {
+            "id": "e1ec5a23",
+            "startAt": 21084,
+            "endAt": 21444,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ok4gi1fl3j8",
+            "startAt": 22602,
+            "endAt": 25853,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "192523c2",
+            "startAt": 26485,
+            "endAt": 30462,
+            "text": "예, 올 때 그 좀 그 저 그 소리 좀 안 나게 해주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lmqo0f9vmv8",
+            "startAt": 29765,
+            "endAt": 30248,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "64d34d83",
+            "startAt": 30500,
+            "endAt": 31814,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "e420ec15",
+            "startAt": 32578,
+            "endAt": 32958,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "6c645782",
+            "startAt": 32988,
+            "endAt": 35617,
+            "text": "저 가족분들 코로나 증상이나 접촉력 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m9vkndc7tno",
+            "startAt": 36281,
+            "endAt": 37181,
+            "text": "없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9v43tremdgo",
+            "startAt": 36377,
+            "endAt": 37250,
+            "text": "없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4kbh0tdrl1g",
+            "startAt": 37365,
+            "endAt": 38332,
+            "text": "없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "a73d307e",
+            "startAt": 38811,
+            "endAt": 39461,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "d365df45",
+            "startAt": 39511,
+            "endAt": 40231,
+            "text": "가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "2b361b89",
+            "startAt": 41184,
+            "endAt": 41574,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 은평구 응암동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "전신쇠약"
+    ],
+    "triage": "잠재응급증상"
+}

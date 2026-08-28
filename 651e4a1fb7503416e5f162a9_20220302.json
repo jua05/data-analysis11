@@ -1,0 +1,119 @@
+{
+    "_id": "651e4a1fb7503416e5f162a9",
+    "audioPath": "20230925/Seoul/2022/20220302/converted_[20220302]-[WQ1139583081].wav",
+    "recordId": "ffe70dc12b1fe7fc6138",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 33120,
+    "utterances": [
+        {
+            "id": "f2dd0361",
+            "startAt": 3297,
+            "endAt": 3895,
+            "text": "네, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "777ed3f9",
+            "startAt": 3857,
+            "endAt": 5077,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "faecc32d",
+            "startAt": 5157,
+            "endAt": 7077,
+            "text": "저희 출동대는 보냈구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n5ov0c69uc8",
+            "startAt": 7389,
+            "endAt": 11462,
+            "text": "혹시 할머니 할머니분 성함하고 생년월일 알 수 있을까요?",
+            "speaker": 0
+        },
+        {
+            "id": "87af5dcc",
+            "startAt": 12610,
+            "endAt": 17611,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "74966d51",
+            "startAt": 18073,
+            "endAt": 18813,
+            "text": "네네 예.",
+            "speaker": 1
+        },
+        {
+            "id": "15c95521",
+            "startAt": 19193,
+            "endAt": 19875,
+            "text": "몇 년 몇",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5alhgd7856g",
+            "startAt": 19456,
+            "endAt": 20156,
+            "text": "생년월일요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6u8dei4ktl8",
+            "startAt": 20087,
+            "endAt": 21696,
+            "text": "예, 몇 년 몇 월생이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "198a425a",
+            "startAt": 22670,
+            "endAt": 23990,
+            "text": "30, 아 38",
+            "speaker": 1
+        },
+        {
+            "id": "2152e185",
+            "startAt": 24118,
+            "endAt": 25120,
+            "text": "38년.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5itc4oo20s8",
+            "startAt": 26111,
+            "endAt": 28483,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "80d07022",
+            "startAt": 28866,
+            "endAt": 30969,
+            "text": "알겠습니다, 선생님 출동대는 보냈습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "adff3350",
+            "startAt": 31499,
+            "endAt": 32089,
+            "text": "네, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 방화동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "중",
+    "sentiment": "중립",
+    "symptom": [
+        "복통"
+    ],
+    "triage": ""
+}
